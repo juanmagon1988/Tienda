@@ -1,0 +1,46 @@
+body {
+
+	background: #C8D3E3;
+	font-family: 'Sulphur Point', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+/* Footer ------*/
+
+footer {
+
+	background:#8A8282;
+	text-align: center;
+	padding: 20px;
+}
+
+footer p{
+
+	text-align: justify;
+}
+
+.page {
+
+	background: #fff;
+	border-radius: 1em;
+	margin: 1em;
+	min-height: 500px;
+	padding: 1em;
+} 
+
+.icon-home{
+
+	color: #666;
+	font-size: 60px;
+	margin: 20px;
+
+}
+
+.btn-home-admin{
+	font-size: 25px;
+	
+
+}
